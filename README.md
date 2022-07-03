@@ -2,6 +2,9 @@
 
 ![balloons](balloons.jpg)
 
+## Introduction
+
+
 ## Goals
 Practice what I learned in the APIs and Web Scraping lessons. 
 
