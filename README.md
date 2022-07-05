@@ -16,7 +16,9 @@ Finally, those relationships between variables that were considered most signifi
 
 ## Conclusions
 The World Happiness Reports confirm that income per capita and healthy life expectancy (two traditional development indicators) are indeed important contributors to happiness. However, the social contexts in which people live are together of equal or greater importance (such as inclusion, benevolence or trust).
+
 There are large differences across countries: northern european countries are always on top of the ranking (Finland, Denmark, Iceland, Switzerland and the Netherlands), while the lowest scores correspond to countries on the African continent (Afghanistan, Lebanon, Zimbabwe, Rwanda and Botswana). One thing to mention is that the distribution of economic production scores (GDP per capita) is very similar to the overall happiness scores. And that the majority of countries show an absence of corruption, even those with the highest happiness scores. Self-reported life satisfaction correlates with other measures of well-being—richer and healthier countries tend to have higher average happiness scores.
+
 There are differences in what makes people happy due to cultural differences in subjective well-being. That is, that cultural factors shape the way people understand happiness and the meaning of life. However, the link between culture and happiness was not explored in all this reports.
 
  
